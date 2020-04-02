@@ -1,0 +1,8 @@
+name: 'Workspace cleaner action'
+description: 'Clean up workspace for self-hosted runner'
+branding:
+  icon: 'alert-triangle'  
+  color: 'red'
+runs:
+  using: 'node12'
+  main: 'index.js'
