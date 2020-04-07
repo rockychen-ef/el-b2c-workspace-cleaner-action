@@ -11,14 +11,13 @@
     "url": "git+https://github.com/rockychen-ef/el-b2c-workspace-cleaner-action.git"
   },
   "dependencies": {
-    "@actions/exec": "^1.0.0",
     "esm": "^3.2.25"
   },
   "devDependencies": {
-    "@actions/exec": "^1.0.0",
     "chai": "^4.2.0",
     "eslint": "^6.4.0",
     "mocha": "^6.2.2",
-    "npx": "^10.2.0"
+    "npx": "^10.2.0",
+    "shelljs": "^0.8.3"
   }
 }
