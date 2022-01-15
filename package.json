@@ -12,13 +12,13 @@
   },
   "dependencies": {
     "esm": "^3.2.25",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.4.0",
     "mocha": "^6.2.2",
     "npx": "^10.2.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
